@@ -12,6 +12,7 @@ class BoardMember{
     return 'You can do that!'
   }
   doCharity(){
-    return 
+    return 'I like to help people.'
   }
+  
 }
